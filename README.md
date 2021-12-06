@@ -23,4 +23,11 @@ Keeping data ready to be used up by the model for training <br />
 # Step 2:- Training the models and using them for further prediction <br />
 By:- Venkata Krishna Arjun Vupalla and S Mahammad Aasheesh <br />
 This step Includes:- <br />
-
+1)Implementation of the three models:-
+  a)Multiple Linear Regression <br />
+  b)Support Vector Machines <br />
+  c)Decision Trees <br />
+2)Training and testing models with data.
+3)applying model on test data
+4)obtaining model metrics
+5)comparing which model is the best
