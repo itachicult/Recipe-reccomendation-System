@@ -27,7 +27,7 @@ This step Includes:- <br />
   a)Multiple Linear Regression <br />
   b)Support Vector Machines <br />
   c)Decision Trees <br />
-2)Training and testing models with data.
-3)applying model on test data
-4)obtaining model metrics
-5)comparing which model is the best
+2)Training and testing models with data. <br />
+3)applying model on test data <br />
+4)obtaining model metrics <br />
+5)comparing which model is the best <br />
