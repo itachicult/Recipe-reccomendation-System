@@ -1,7 +1,7 @@
 # EDA-Analysis
 # TEAM PSEUDO
 # 1) Kuntal Gorai                   PES2UG19CS198
-# 2) S Mahammad Aasheesh            PES2UG19CS341
+# 2) S Mahammad Aasheesh            PES2UG19CS342
 # 3) S V S C Santosh                PES2UG19CS346
 # 4) Venkata Krishna Arjun Vupalla  PES2UG19CS451
 
